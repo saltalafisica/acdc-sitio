@@ -5,40 +5,104 @@ type = "page"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+# Preguntas frecuentes sobre el taller e inscripciones:
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+## ¿Quiénes pueden participar?
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Principalmente estudiantes de nivel secundario interesados en la física y las ciencias.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+## ¿Necesitan tener conocimientos previos de física?
 
-## 2. WHAT ARE THE POSTAL RATES?
+No necesariamente. La modalidad Fundamentos está pensada para estudiantes que quieren empezar a comprender la física desde sus bases.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+## ¿Qué diferencia hay entre Fundamentos y Olimpiadas?
 
-## 3. DO YOU SEND OVERSEAS?
+Fundamentos se enfoca en la comprensión conceptual de la física, mientras que Olimpiadas está orientado a entrenar la resolución de problemas complejos y competencias académicas.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+## ¿Qué documentos deben llevar para inscribirse?
 
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
+Deben presentar DNI original y copia y certificado de alumno regular.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+## ¿Qué pasa si el estudiante es menor de edad?
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+Debe asistir acompañado por un adulto responsable al momento de la inscripción.
 
-## 5. ANOTHER IMPORTANT QUESTION
+## ¿Qué ocurre si falta algún documento?
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+La organización informó que no se aceptarán inscripciones con documentación incompleta.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+## ¿Cuándo comienzan las clases?
 
----
+Las clases comenzarán el 11 de abril.
 
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+## ¿Dónde se realiza el taller?
+
+En los Anfiteatros A y C de la Universidad Nacional de Salta (UNSa).
+
+## ¿Se pueden hacer donaciones para apoyar el programa?
+
+Sí. Aunque el taller es gratuito, se aceptan donaciones voluntarias para comprar equipamiento e insumos de laboratorio.
+
+## ¿Dónde se pueden realizar las donaciones?
+
+Las donaciones pueden hacerse en https://www.acdc.org.ar/, donde es posible colaborar con aportes mensuales o donaciones únicas.
+
+## ¿Se abona la inscripción?
+
+La inscripción es gratuita. Solo es necesario tener la documentación completa. La ACDC acepta donaciones únicas o mensuales, pero no son obligatorias.
+
+## ¿Puedo ir si soy estudiante de secundaria?
+
+Sí. Tenés que venir con la documentación completa y acompañado por tus padres o tutor.
+
+## Soy estudiante universitario, ¿me puedo inscribir?
+
+Sí. Te inscribís con tu DNI (esto lo decimos, pero no lo divulgamos).
+
+## Estoy cursando el último año de la carrera, ¿puedo venir?
+
+Sí. Te inscribís con tu DNI (esto lo decimos, pero no lo divulgamos).
+
+## ¿Qué pasa si no tengo DNI?
+
+No te podemos inscribir. No se puede tramitar el seguro sin DNI.
+
+## Soy jubilada, ¿me puedo inscribir?
+
+Sí. Te inscribís con tu DNI (esto lo decimos, pero no lo divulgamos).
+
+## ¿Puedo participar si estoy en la primaria?
+
+No. Tenés que tener certificado de alumno regular de nivel medio para que podamos tramitar el seguro (salvo los chicos que vienen del año pasado, que tienen una excepción). Además, no es el público objetivo del plan pedagógico. No va a estar inscripto ni va a tener seguro.
+
+## ¿Puedo llevar a mi hijo que va a la primaria si estoy presente con él?
+
+No. Tenés que tener certificado de alumno regular de nivel medio para que podamos tramitar el seguro (salvo los chicos que vienen del año pasado, que tienen una excepción). No es el público objetivo del plan pedagógico. No va a estar inscripto ni va a tener seguro.
+
+## ¿Puedo cursar si soy adulto?
+
+Sí. Te inscribís con DNI.
+
+## Voy a una escuela técnica, ¿tiene sentido que vaya?
+
+Sí. Podés venir si te gusta o si querés participar de las olimpíadas.
+
+## ¿Puedo inscribirme directamente a nivel 3?
+
+Sí. De todas formas, recomendamos que si estás en duda te inscribas en el nivel 1 y después decidas si querés cambiarte. El cambio tiene que avisarse explícitamente.
+
+## ¿Qué tengo que llevar?
+
+Traé una taza para el desayuno.
+
+## ¿Hay uniforme?
+
+No.
+
+## ¿Hay preparación para becas de CNEA?
+
+Sí, pero es para el nivel 4 y comienza a partir de la segunda mitad del año.
+
+## ¿Me puedo incorporar a mitad de año?
+
+No garantizamos que haya inscripciones a mitad de año. En años anteriores se han abierto cupos, y si vuelve a pasar lo vamos a avisar por redes.

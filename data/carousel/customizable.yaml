@@ -1,9 +1,11 @@
-weight: 4
-title: "Easy to customize"
+weight: 2
+title: "Nuestros Reconocimientos"
 description: >
   <ul class="list-style-none">
-    <li>7 preprepared colour variations.</li>
-    <li>Easily to change fonts</li>
+    <li>El taller “La Física al Alcance de Todos” fue:</li>
+    <li>Declarado de interés por la Universidad Nacional de Salta</li>
+    <li>Declarado de interés por la Cámara de Diputados de la Provincia de Salta</li>
+    <li>Declarado de interés por la Cámara de Senadores de la Nación Argentina</li>
   </ul>
-image: "img/carousel/template-easy-code.png"
-href: "https://devcows.github.io/hugo-universal-theme/"
+image: "img/carousel/trophy.svg"
+# href: "https://devcows.github.io/hugo-universal-theme/"

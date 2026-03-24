@@ -1,10 +1,7 @@
-weight: 3
-title: "Design"
+weight: 1
+title: "Enseñamos Física en Salta, al alcance de todos"
 description: >
-  <ul class="list-style-none">
-    <li>Clean and elegant design</li>
-    <li>Full width and boxed mode</li>
-    <li>Easily readable Roboto font and awesome icons</li>
-    <li>7 preprepared colour variations</li>
-  </ul>
-image: "img/carousel/template-easy-customize.png"
+  <p>
+    Ofrecemos un ambiente presencial relajado y distendido en el que fomentamos carreras científicas. Discutimos conceptos de la física. Hacemos experimentos. Y tenemos charlas con científicos y profesionales de la ciencia y la tecnología.
+  </p>
+image: "img/carousel/logoMinimal.png"
