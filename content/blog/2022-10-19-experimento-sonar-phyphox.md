@@ -3,11 +3,11 @@ title: "Experimento de Sonar"
 subtitle: 📱📢🧱
 math: true
 author: Martín Aramayo, Alberto Villagran
-image: "/page/medir-distancias-con-trigonometria/regla-mano-izquierda-portrait.webp"
+# image: "/page/medir-distancias-con-trigonometria/regla-mano-izquierda-portrait.webp"
 tags: ["Sonido", "Ondas", "Reflexión", "Señales", "Smartphone", "Phyphox"]
 date: 2022-10-19
 # image: false
-banner: /img/sonar/sonar.png
+banner: "img/sonar/sonar.png"
 ---
 
 El experimento Sonar envía sonidos cortos a través de un parlante y graba el eco con un micrófono. Muestra un gráfico indicando donde rebotó el audio.

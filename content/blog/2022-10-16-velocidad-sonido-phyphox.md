@@ -3,11 +3,11 @@ title: "Velocidad del sonido con Smartphone"
 subtitle: 📢🏃📱
 math: true
 author: Martín Aramayo, Alberto Villagran
-image: "/page/medir-distancias-con-trigonometria/regla-mano-izquierda-portrait.webp"
+# image: "/page/medir-distancias-con-trigonometria/regla-mano-izquierda-portrait.webp"
 tags: ["Sonido", "Cinemática", "MRU", "Smartphone", "Phyphox"]
 date: 2022-10-19
 # image: true
-banner: /img/experimento-sonido-phyphox.webp
+banner: "img/experimento-sonido-phyphox.webp"
 ---
 
 Medición de velocidad del sonido usando dos smartphones con Phyphox
@@ -99,7 +99,7 @@ $$
 \quad
 $$
 
-Velocidad promedio del sonido = ******\_\_\_\_****** m/s.
+Velocidad promedio del sonido = **\*\***\_\_\_\_**\*\*** m/s.
 
 ### Pregunta
 

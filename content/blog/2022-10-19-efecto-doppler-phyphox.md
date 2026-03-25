@@ -3,11 +3,11 @@ title: "Efecto doppler"
 subtitle: 🏃📢🧍
 math: true
 author: Martín Aramayo, Alberto Villagran
-image: "/page/medir-distancias-con-trigonometria/regla-mano-izquierda-portrait.webp"
+# image: "/page/medir-distancias-con-trigonometria/regla-mano-izquierda-portrait.webp"
 tags: ["Sonido", "Ondas", "Doppler", "Smartphone", "Phyphox"]
 date: 2022-10-19
 # image: true
-banner: /img/doppler.jpg
+banner: "img/doppler.jpg"
 ---
 
 Medir el corrimiento de frecuencias, como los que detectan radares policiales o astrónomos con la luz de galaxias.

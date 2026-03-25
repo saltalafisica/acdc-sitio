@@ -9,7 +9,7 @@ math: true # si contiene ecuaciones poner true
 image: false # a definir en el futuro que tipo de imagenes poner, por el momento queda false
 # hidden: true
 # show: false
-banner: "/img/incerteza/definicion.png"
+banner: "img/incerteza/definicion.png"
 ---
 
 Una breve explicación sobre propagación de errores, como funciona, como calcularlos a mano y qué herramientas modernas usar para obtenerlos.

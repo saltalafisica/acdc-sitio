@@ -6,7 +6,7 @@ tags: ["Nube", "Enfriamiento Adiabático", "Temperatura", "Presión", "Física"]
 date: 2022-12-03 # poner la fecha de creación del post
 math: false # si contiene ecuaciones poner true
 # image: false # a definir en el futuro que tipo de imágenes poner, por el momento queda false
-banner: "/img/2022-12-03-haciendo-nubes/preparando-descorche.jpeg"
+banner: "img/2022-12-03-haciendo-nubes/preparando-descorche.jpeg"
 ---
 
 En esta experiencia, proponemos simular el fenómeno atmosférico de una nube en el interior de una botella.

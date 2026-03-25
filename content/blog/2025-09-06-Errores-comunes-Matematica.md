@@ -6,7 +6,7 @@ tags: ["Matemática", "Aprendizaje", "Física"] # Por lo general contienen lo mi
 date: 2025-09-12 # poner la fecha de creación del post
 math: true # si contiene ecuaciones poner true
 # image: true # a definir en el futuro que tipo de imagenes poner, por el momento queda false
-banner: "/img/2025-09-06-Errores-comunes-Matematica/piernua.png"
+banner: "img/2025-09-06-Errores-comunes-Matematica/piernua.png"
 ---
 
 Breve exposicion de errores comunes en matemática, con esto es mas fácil

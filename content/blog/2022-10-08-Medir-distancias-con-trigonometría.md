@@ -2,7 +2,7 @@
 title: "Cómo medir distancias midiendo ángulos"
 author: Martín Aramayo
 subtitle: "📏➕📐"
-image: "/page/medir-distancias-con-trigonometria/regla-mano-izquierda-portrait.webp"
+# image: "/page/medir-distancias-con-trigonometria/regla-mano-izquierda-portrait.webp"
 tags:
   [
     "Distancias",
@@ -14,7 +14,7 @@ tags:
 date: 2022-10-15
 math: true
 # image: true
-banner: /img/regla-mano-izquierda.webp
+banner: "img/regla-mano-izquierda.webp"
 ---
 
 Como medir a ojo y mal, pero con criterio.

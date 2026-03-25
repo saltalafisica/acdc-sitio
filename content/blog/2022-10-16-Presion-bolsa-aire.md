@@ -3,11 +3,11 @@ title: "Presión en bolsa de aire"
 subtitle: 🛍️🍃📱
 math: true
 author: Martín Aramayo, Juan Pablo Carbajal
-image: "/page/medir-distancias-con-trigonometria/regla-mano-izquierda-portrait.webp"
+# image: "/page/medir-distancias-con-trigonometria/regla-mano-izquierda-portrait.webp"
 tags: ["Presión", "Física", "Unidades", "Smartphone", "Phyphox"]
 date: 2022-10-15
 # image: true
-banner: /img/fotitoBolsa.webp
+banner: "img/fotitoBolsa.webp"
 ---
 
 El objetivo de este experimento es investigar cómo la presión depende de la fuerza y el área.

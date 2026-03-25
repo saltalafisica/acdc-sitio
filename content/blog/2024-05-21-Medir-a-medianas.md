@@ -6,7 +6,7 @@ tags: ["Matemática", "Estadistica", "Física", "Promedio"] # Por lo general con
 date: 2024-05-21 # poner la fecha de creación del post
 math: true # si contiene ecuaciones poner true
 # image: false # a definir en el futuro que tipo de imagenes poner, por el momento queda false
-banner: "/img/medir-a-medianas/moda-2.png"
+banner: "img/medir-a-medianas/moda-2.png"
 ---
 
 Breve explicación intuitiva y visual de como funcionan: La media aritmética, la media geométrica, la media harmónica, la mediana y la moda (No en ese orden je).

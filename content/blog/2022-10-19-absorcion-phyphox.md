@@ -3,11 +3,11 @@ title: "Absorción de luz visible"
 subtitle: 💡📃📱
 math: true
 author: Martín Aramayo, Juan Pablo Carbajal, Alberto Villagran, Alejandra Mendez
-image: "/img/lamina.jpg"
+# image: "/img/lamina.jpg"
 tags: ["Absorción", "Luz", "Smartphone", "Phyphox", "Sensores", "Óptica"]
 date: 2022-10-19
 # image: false
-banner: /img/lamina.jpg
+banner: "img/lamina.jpg"
 ---
 
 El objetivo de este experimento es observar como la [luminosidad](https://es.wikipedia.org/wiki/Luminosidad?oldformat=true) detectada por un sensor decrece a medida que se incrementa la cantidad de material entre el sensor y una fuente de luz.
