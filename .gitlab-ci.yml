@@ -1,21 +1,53 @@
 stages:
   - build
+  - deploy
 
 variables:
   HUGO_VERSION: "0.157.0"
+  HUGO_BIN: "/usr/local/bin/hugo"
+  PUBLIC_DIR: "public"
+  CACHE_DIR: ".hugo_cache"
+  HUGO_CACHE_DIR: ".hugo_bin"
 
-build_hugo_site:
+# Cache Hugo binary and build cache
+cache:
+  key: hugo-cache
+  paths:
+    - $CACHE_DIR
+    - $HUGO_CACHE_DIR
+
+before_script:
+  - apk add --no-cache bash curl git tar
+
+# Helper function to download Hugo if not cached
+.download_hugo: &download_hugo
+  - mkdir -p $HUGO_CACHE_DIR
+  - if [ ! -f "$HUGO_CACHE_DIR/hugo" ]; then \
+    echo "Downloading Hugo v${HUGO_VERSION}..."; \
+    curl -Lo $HUGO_CACHE_DIR/hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz; \
+    tar -xzf $HUGO_CACHE_DIR/hugo.tar.gz -C $HUGO_CACHE_DIR; \
+    chmod +x $HUGO_CACHE_DIR/hugo; \
+    fi
+  - cp $HUGO_CACHE_DIR/hugo $HUGO_BIN
+  - chmod +x $HUGO_BIN
+  - $HUGO_BIN version
+
+build_site:
   stage: build
-  image: alpine:latest
-  before_script:
-    - apk add --no-cache curl tar git bash
-    # Download Hugo extended
-    - curl -LO https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
-    - tar -xzf hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
-    - mv hugo /usr/local/bin/
-    - hugo version
   script:
-    - hugo --minify
+    - *download_hugo
+    - rm -rf $PUBLIC_DIR
+    - $HUGO_BIN --minify
   artifacts:
     paths:
-      - public
+      - $PUBLIC_DIR
+
+deploy_site:
+  stage: deploy
+  dependencies:
+    - build_site
+  script:
+    - *download_hugo
+    - $HUGO_BIN deploy --target production
+  only:
+    - main
