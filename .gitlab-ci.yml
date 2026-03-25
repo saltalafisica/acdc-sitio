@@ -4,6 +4,8 @@ stages:
 pages:
   stage: deploy
   image: cibuilds/hugo:0.157.0
+  before_script:
+    - git submodule update --init --recursive
   script:
     # Build the Hugo site
     - hugo --minify --baseURL "https://martinaramayo.gitlab.io/acdc-pa/" --destination public
