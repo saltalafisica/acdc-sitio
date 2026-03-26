@@ -1,0 +1,6 @@
+{{ if and (eq .Kind "page") (.TableOfContents) }}
+<div class="sidebar-toc">
+  <h4>Contents</h4>
+  {{ .TableOfContents }}
+</div>
+{{ end }}
