@@ -26,7 +26,7 @@ jobs:
       - name: Build site
         run: hugo --minify --baseURL "https://saltalafisica.github.io/" --destination public
 
-      - name: Deploy to GitHub Pages
+      - name: Deployment to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
