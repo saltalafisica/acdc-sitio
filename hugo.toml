@@ -105,10 +105,10 @@ pluralizelisttitles = false
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devcows", "hugo", "go"]
+    author = "Asociación Civil Ciencia al Alcance de Todos"
+    defaultKeywords = ["Asociacion civil", "Fisica", "Ciencia"]
     mainSections = ["blog"]
-    defaultDescription = "Site template made by Devcows using Hugo"
+    defaultDescription = "Sitio de la Asociación Civil Ciencia al Alcance de Todos"
 
     # Social media
     # facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
