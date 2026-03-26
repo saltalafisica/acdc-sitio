@@ -1,7 +1,7 @@
 +++
 title = "Contactanos"
 id = "contact"
-# type = "page"
+draft = false
 +++
 
 ## Ayudanos a continuar enseñando Física en Salta

@@ -41,9 +41,9 @@ pluralizelisttitles = false
     weight     = 5
 
 [[menu.main]]
-    name       = "Prensa"
-    identifier = "menu.prensa"
-    url        = "/prensa/"
+    name       = "Noticias"
+    identifier = "menu.noticias"
+    url        = "/noticias/"
     weight     = 5
 
 [[menu.main]]
@@ -107,8 +107,10 @@ pluralizelisttitles = false
     viewMorePostLink = "/blog/"
     author = "Asociación Civil Ciencia al Alcance de Todos"
     defaultKeywords = ["Asociacion civil", "Fisica", "Ciencia"]
-    mainSections = ["blog"]
+    mainSections = ["blog", "noticias"]
     defaultDescription = "Sitio de la Asociación Civil Ciencia al Alcance de Todos"
+
+    sectionLayouts = { noticias = "blog" }
 
     # Social media
     # facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
@@ -186,6 +188,7 @@ pluralizelisttitles = false
 
 [permalinks]
     blog = "/blog/:year/:month/:day/:contentbasename/"
+    noticias = "/noticias/:year/:month/:day/:contentbasename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
@@ -199,8 +202,9 @@ pluralizelisttitles = false
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     categories = false
-    tags = false
+    tags = true
     search = false
+    toc = true
 
 [params.carouselCustomers]
     items = 6

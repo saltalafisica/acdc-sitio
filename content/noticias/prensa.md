@@ -1,4 +1,9 @@
-## **Abren las inscripciones para el taller “La Física al Alcance de Todos” del profesor Daniel Córdoba**
+---
+title: "Abren las inscripciones para el taller “La Física al Alcance de Todos” del profesor Daniel Córdoba"
+date: 2022-10-15
+draft: false
+layout: "blog"
+---
 
 Se encuentran abiertas las inscripciones para el taller “La Física al Alcance de Todos”, una propuesta educativa creada por el profesor Daniel Córdoba y dirigida a estudiantes interesados en comprender la física o en prepararse para competencias académicas.
 
