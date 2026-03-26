@@ -3,15 +3,15 @@ name: Build and Deploy Hugo Site
 on:
   push:
     branches:
-      - master # your Hugo source branch
+      - main # or master, whatever your build repo uses
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout source
-      - name: Checkout repository
+      # 1. Checkout source repo (allowed here)
+      - name: Checkout source
         uses: actions/checkout@v4
 
       # 2. Install Hugo
@@ -23,27 +23,19 @@ jobs:
           hugo version
 
       # 3. Build Hugo site
-      - name: Build Hugo site
+      - name: Build site
         run: hugo --minify
 
-      # 4. Deploy only generated site to root of master
-      - name: Deploy generated site
+      # 4. Push generated HTML to Pages repo
+      - name: Deploy to GitHub Pages
+        env:
+          PAGES_REPO: saltalafisica/saltalafisica.github.io
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          TMP_DIR=$(mktemp -d)
-
-          # Clone repo into temporary directory
-          git clone --depth=1 "https://github.com/${{ github.repository }}.git" $TMP_DIR
-          cd $TMP_DIR
-
-          # Remove everything except .git (keeps repo clean)
-          git rm -rf .
-
-          # Copy generated files from workflow's public folder
-          cp -r $GITHUB_WORKSPACE/public/* ./
-
-          # Commit and push deployment
-          git config user.name "${{ github.actor }}"
-          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          cd public
+          git init
+          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${PAGES_REPO}.git"
+          git checkout -b master
           git add .
-          git commit -m "Deploy Hugo site [skip ci]" || echo "No changes to commit"
-          git push origin master
+          git commit -m "Deploy Hugo site [skip ci]"
+          git push --force origin master
