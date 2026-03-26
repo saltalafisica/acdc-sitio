@@ -21,10 +21,10 @@ jobs:
           hugo-version: '0.157.0'
 
       - name: Build site
-        run: hugo --minify --baseURL "https://<YOUR_USERNAME>.github.io/" --destination public
+        run: hugo --minify --baseURL "https://saltalafisica.github.io/" --destination public
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v5
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
