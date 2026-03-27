@@ -8,9 +8,9 @@ banner: "/img/prensa/2026-03-24_inscripcionTaller2026/inscripcion.jpg"
 
 Se encuentran abiertas las inscripciones para el taller “La Física al Alcance de Todos”, una propuesta educativa creada por el profesor Daniel Córdoba y dirigida a estudiantes interesados en comprender la física o en prepararse para competencias académicas.
 
-La jornada de inscripción se realizará el **sábado 21 de marzo, de 9:30 a 12:30**, en el **Anfiteatro A** de la **Universidad Nacional de Salta (UNSa)**.
-
 <!--more-->
+
+La jornada de inscripción se realizará el **sábado 21 de marzo, de 9:30 a 12:30**, en el **Anfiteatro A** de la **Universidad Nacional de Salta (UNSa)**.
 
 El taller **tiene costo cero** y forma parte de un **programa de extensión universitaria de la UNSa**, financiado con fondos de la Universidad a través de la Secretaría de Extensión Universitaria y la Facultad de Ciencias Exactas. Además, cuenta con el acompañamiento de la Coordinación de Promoción del Desarrollo Tecnológico del Ministerio de Educación, Cultura, Ciencia y Tecnología del Gobierno de Salta, y de la Asociación Civil Ciencia al Alcance de Todos.
 

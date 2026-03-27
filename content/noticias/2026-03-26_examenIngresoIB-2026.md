@@ -8,9 +8,9 @@ banner: "/img/prensa/2026-03-26_examenIngresoIB-2026/IngresoIB-Rendida1-web-opti
 
 El **viernes 20 de marzo de 2026** se llevó a cabo el **examen de ingreso al Instituto Balseiro**. En total rindieron aproximadamente **180 estudiantes** en **siete sedes del país**: Bariloche, Córdoba, Salta, Tucumán, Buenos Aires, Mendoza y Rosario.
 
-La **sede Salta** funcionó en la **Universidad Nacional de Salta (UNSa)**. Esta fue la **tercera vez** que el examen se tomó en la provincia, siendo la primera en **2024**. En esta sede rindieron **13 estudiantes**, de un total de **16 inscriptos**.
-
 <!--more-->
+
+La **sede Salta** funcionó en la **Universidad Nacional de Salta (UNSa)**. Esta fue la **tercera vez** que el examen se tomó en la provincia, siendo la primera en **2024**. En esta sede rindieron **13 estudiantes**, de un total de **16 inscriptos**.
 
 ![Ingreso IB 1](/img/prensa/2026-03-26_examenIngresoIB-2026/IngresoIB-rendida2-web-optimize.jpeg)
 
