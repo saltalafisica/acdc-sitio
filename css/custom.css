@@ -48,7 +48,7 @@ h6 {
 /* 3. Content area        */
 /* ---------------------- */
 #post-content {
-  max-width: 65ch; /* optimal line length */
+  /* max-width: 65ch; optimal line length */
   margin: auto;
 }
 
