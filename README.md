@@ -13,3 +13,18 @@ Los logos `public/img/logo`.
 ```bash
 magick mogrify -path output -resize 1200x\> -strip -interlace Plane -quality 82 *.jpeg
 ```
+
+## TODO
+
+- [ ] Get the new favicon
+- [ ] Ensure the banner image is displayed correctly
+- [ ] Make giant tables scrollable
+- [ ] Fix translation issues in the table of contents (i38)
+- [ ] Make the tag column togglable
+- [ ] Increase the width of the content column
+- [ ] Display all affiliations
+- [ ] Optimize images for the website
+- [ ] Meta open graph optimization
+- [ ] SEO optimization
+- [ ] Setting the domain name
+- [ ] Document how to add a post and modify the site
