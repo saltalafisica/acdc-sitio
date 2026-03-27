@@ -7,7 +7,7 @@ author: Martín Aramayo, Alberto Villagran
 tags: ["Sonido", "Ondas", "Reflexión", "Señales", "Smartphone", "Phyphox"]
 date: 2022-10-19
 # image: false
-banner: "img/sonar/sonar.png"
+banner: "img/blog/2022-10-19-experimento-sonar-phyphox/sonar.png"
 ---
 
 El experimento Sonar envía sonidos cortos a través de un parlante y graba el eco con un micrófono. Muestra un gráfico indicando donde rebotó el audio.
@@ -31,9 +31,9 @@ El experimento Sonar envía sonidos cortos a través de un parlante y graba el e
 
 La gente de Phyphox armo estos experimentos, los hacemos disponibles traducidos. Dejo link al [original](https://phyphox.org/wiki/index.php?title=Experiment:_Sonar). Para un video de ejemplo se puede acceder a [este link](https://www.youtube.com/watch?v=Ebj3v701HE0).
 
-![](/img/sonar/sonar.png)
+![](/img/blog/2022-10-19-experimento-sonar-phyphox/sonar.png)
 
-### Requisitos
+## Requisitos
 
 En teoría, este experimento se puede hacer en cualquier lado. Pero es difícil interpretar los ecos generados en una habitación cualquiera. Cada objeto de la habitación puede reflejar el sonido y contribuir a que haya algún eco.
 
@@ -45,11 +45,11 @@ Es importante reducir el ruido del ambiente durante el experimento. Hasta una co
 
 Se puede mejorar este experimento usando un micrófono y parlante externo bien direccionados y aislados. Un parlante bluetooth y un micrófono conectado con cable pueden dar más control sobre la configuracion y el aislamiento.
 
-### El arreglo
+## El arreglo
 
 Con el teléfono bien ubicado para escuchar el eco de interés, subi el volumen e inicia el experimento. Se escuchará un click en el teléfono y deberías ver datos de distancia en el gráfico. Puede que todavía veas picos de ecos irrelevantes. Si movés la superficie reflectante verás que el pico correcto también se mueve.
 
-### Análisis
+## Análisis
 
 El sonido que se escucha no es cualquier click, es conocido como [chirp](https://www.wikiwand.com/en/Chirp). Es una función senoidal que carga su frecuencia rápidamente. En este caso va desde 1 kHz a 4 kHz por un periodo superior a 5 ms. Adicionalmente, una función de peso se agrega para que el [chirp](https://www.wikiwand.com/en/Chirp) inicie y termine de forma suave. El [chirp](https://www.wikiwand.com/en/Chirp) se repite 5 veces en un intervalo de 30 ms.
 
@@ -58,19 +58,21 @@ Para que el gráfico se vea más bonito, se lo suaviza con un filtro gaussiano (
 
 El tiempo en el eje \\(x\\) es multiplicado por la velocidad del sonido y dividido por 2 para dar la correspondiente distancia de los ecos.
 
-### Problemas y soluciones
+## Problemas y soluciones
 
 - Muchos picos al azar. Esto puede ser causado por un fuerte ruido de fondo: Se recomienda hacer el experimento en un ambiente sin ruido.
 - Muchos picos en posiciones fijas: Si aparecen siempre a la misma distancia (mientras el teléfono se encuentra en el mismo lugar), debes mejorar el aislamiento. Muy posiblemente estos picos provengan de otros objetos reflectantes.
 
-### Video Demostración
+## Video Demostración
 
 - Versión en inglés https://youtu.be/Ebj3v701HE0
 - Versión en alemán <https://youtu.be/3JtJoJAAgKU>
+
+_Fuente: Phyphox_
+
+---
 
 ### Recomendaciones para aprender más
 
 - [Reflexión de sonido (Hyperphysics)](http://hyperphysics.phy-astr.gsu.edu/hbasees/Sound/reflec.html#c1)
 <!-- * [Reflexión de ondas (No me salen de Ricardo Cabrera)](https://ricuti.com.ar/no_me_salen/ondas/Ap_luz_rerfac.html) -->
-
-Fuente: Phyphox

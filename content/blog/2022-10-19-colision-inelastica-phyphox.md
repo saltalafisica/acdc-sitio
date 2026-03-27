@@ -7,7 +7,7 @@ author: Martín Aramayo, Alberto Villagran
 tags: ["Colisiones", "Colision inelastica", "Mecánica", "Smartphone", "Phyphox"]
 date: 2022-10-19
 # image: true
-banner: "img/phyphoxDrop.webp"
+banner: "img/blog/2022-10-19-colision-inelastica-phyphox/phyphoxDrop.webp"
 ---
 
 Calcula la perdida de energía de un objeto cuando cae y rebota.
@@ -31,17 +31,17 @@ Calcula la perdida de energía de un objeto cuando cae y rebota.
 
 La gente de Phyphox armo estos experimentos, los hacemos disponibles traducidos. Dejo link al [original](https://phyphox.org/wiki/index.php?title=Experiment:_Inelastic_Collision).
 
-![](/img/phyphoxDrop.webp)
+![](/img/blog/2022-10-19-colision-inelastica-phyphox/phyphoxDrop.webp)
 
 En este experimento de colisión inelástica se graba con micrófono el sonido de una pelota. El tiempo entre rebotes permite calcular: la altura inicial de la bolita, la altura entre rebotes y la porción de energía disipada en cada rebote.
 
-### Requisitos
+## Requisitos
 
 Solo se requiere una pelota y una superficie lo mas a nivel posible. Es importante que la pelota suene al golepar la superficie.
 
 **NOTA:** Si el teléfono que se usa no es lo suficientemente rápido para analizar el audio en tiempo real. Entonces, el reloj contará el tiempo muy lento.
 
-### Análisis
+## Análisis
 
 Se utilizan unos módulos para decidir cuantos rebotes han ocurrido. Luego,
 se analizan pedazos del audio, comparando su máximo con un umbral. Si se excede el umbra, calculamos el número de muestras del máximo y lo transformamos en tiempo.
@@ -56,7 +56,7 @@ Este experimento es idéntico al del **cronómetro acústico (acoustic stopwatch
 
 - Para obtener la altura inicial, el experimento asume que la energía perdida en el primer rebote es aproximadamente la misma que se pierde en el segundo rebote.
 
-### Problemas y soluciones
+## Problemas y soluciones
 
 - El tiempo medido es demasiado pequeño: Desafortunadamente, esto puede pasar si el teléfono no puede analizar datos tan rápido como se graban. Por el momento, no hay una solución a este problema, solo utilizar un teléfono más rápido.
 
@@ -65,6 +65,8 @@ Este experimento es idéntico al del **cronómetro acústico (acoustic stopwatch
 - Se pierden rebotes. En este caso, probablemente necesites bajar el **umbral (threshold)**, para que los ruidos del rebote estén por encima del umbral. Puedes usar el osciloscopio de audio para revisar amplitudes y estar seguro.
 
 - El experimento se activa sin ningún rebote. Quizás haga falta incrementar el umbral por arriba del ruido de fondo. Podés utilizar el osciloscopio de audio de Phyphox para chequear amplitudes.
+
+---
 
 ### Recomendaciones para aprender más
 

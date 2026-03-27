@@ -5,8 +5,8 @@ subtitle: "🫂⚠️➗" # tres emojis que tengan que ver con el post, podes sa
 tags: ["Matemática", "Aprendizaje", "Física"] # Por lo general contienen lo mismo que los temas
 date: 2025-09-12 # poner la fecha de creación del post
 math: true # si contiene ecuaciones poner true
-# image: true # a definir en el futuro que tipo de imagenes poner, por el momento queda false
-banner: "img/2025-09-06-Errores-comunes-Matematica/piernua.png"
+## image: true # a definir en el futuro que tipo de imagenes poner, por el momento queda false
+banner: "img/blog/2025-09-06-Errores-comunes-Matematica/piernua.png"
 ---
 
 Breve exposicion de errores comunes en matemática, con esto es mas fácil
@@ -36,7 +36,7 @@ como el suyo
 
 ---
 
-# 1. Errores Generales
+## 1. Errores Generales
 
 Antes de empezar, **no hay ni debería haber ni vergüenza ni culpa en cometer
 ninguno de estos errores**. El aprendizaje es así, uno no sabe lo que no
@@ -58,9 +58,9 @@ significa que tenés que buscar que otros errores estás cometiendo, para
 seguir mejorando. De todas formas recomiendo leer todo. Hay algo de valor
 para todos a mí criterio.
 
-## "Patear" aprender alguna parte del programa
+### "Patear" aprender alguna parte del programa
 
-![](/img/2025-09-06-Errores-comunes-Matematica/piernua.png)
+![](/img/blog/2025-09-06-Errores-comunes-Matematica/piernua.png)
 
 En el barrio se comenta que ocurren estos dilemas:
 
@@ -111,9 +111,9 @@ Cuya traduccion libre viene a ser algo como:
 > El primer principio es, no te engañes - Es muy
 > facil engañarte a vos mismo.
 
-## Hacer lo mínimo indispensable
+### Hacer lo mínimo indispensable
 
-![](/img/2025-09-06-Errores-comunes-Matematica/mafaldaChill.png)
+![](/img/blog/2025-09-06-Errores-comunes-Matematica/mafaldaChill.png)
 
 Hay muchos estudiantes tratando de hacer lo mínimo indispensable para
 aprobar, o lo que ellos _sienten_ que es lo mínimo indispensable. El
@@ -143,7 +143,7 @@ al respecto. Requiere ensayo y error. Tenés que estar activamente
 involucrado en el proceso de aprendizaje si querés tener buenos
 resultados.
 
-### Yapa 1: No tomar descansos
+#### Yapa 1: No tomar descansos
 
 > Esta sección y todas las yapas son mías, Paul no tuvo nada que ver acá.
 
@@ -201,7 +201,7 @@ no brinda estos beneficios que menciono[^4]. Toco perder, MILAGRO DE LA VIDA. A
 tomar sol, agua, estirar, caminar un poco o charlar con alguien cercano para
 mantener la cordura.
 
-![](/img/2025-09-06-Errores-comunes-Matematica/screen-time.png)
+![](/img/blog/2025-09-06-Errores-comunes-Matematica/screen-time.png)
 
 [^4]:
     Kang, S., & Kurtzberg, T. R. (2019). Reach for your cell phone at your own
@@ -220,7 +220,7 @@ de aprender que hay mucho contenido bueno).
     Cornell Health. (n.d.). Study breaks & stress-busters. Cornell University.
     https://health.cornell.edu/about/news/study-breaks-stress-busters
 
-## Una buena/mala nota en el primer examen no implica la misma nota para todo el curso
+### Una buena/mala nota en el primer examen no implica la misma nota para todo el curso
 
 Otro título acá podría ser: "No se crea especial/espectacular ni se desespere
 cuando falta mucho para terminar".
@@ -236,7 +236,7 @@ yéndole mal luego en los exámenes.
 
 En Resumen, te subiste al poni, descripto graficamente:
 
-![](/img/2025-09-06-Errores-comunes-Matematica/ponySalvaje.jpg)
+![](/img/blog/2025-09-06-Errores-comunes-Matematica/ponySalvaje.jpg)
 
 De la misma manera, ¡Si sacas una mala nota en el primer examen, no te
 desesperes! El examen de una materia no es un examen de coeficiente intelectual.
@@ -266,7 +266,7 @@ tiempo que dura la materia por delante y muchas oportunidades para remontar
 la nota, así que no te desesperes si no te fue tan bien como querías en el
 primer examen. Solo hay que enfocarse en mejorar.
 
-## Hay que aprender cómo estudiar matemáticas
+### Hay que aprender cómo estudiar matemáticas
 
 Dentro de este paraguas están:
 
@@ -299,7 +299,7 @@ un documento solo a este tema. "Cómo Estudiar Matemáticas" se puede acceder en
 
 ---
 
-# 2. Errores de Álgebra
+## 2. Errores de Álgebra
 
 $$ \xcancel{ErrOres} \quad Errores $$
 
@@ -330,9 +330,9 @@ que cometer un error en uno de los primeros pasos de una cuenta y tener que
 rehacerla desde cero. Ir lento, pero ordenado y seguro siempre va a ser más
 rápido que apurarse de forma caótica.
 
-### Yapa 2: Ahorrar papel
+#### Yapa 2: Ahorrar papel
 
-![](/img/2025-09-06-Errores-comunes-Matematica/papelMucho.jpg)
+![](/img/blog/2025-09-06-Errores-comunes-Matematica/papelMucho.jpg)
 
 Otra cosa que personalmente he observado más de una vez. Escribir lo mínimo
 indispensable en la hoja, en el afán de ahorrar papel. Y entiendo de dónde viene
@@ -377,7 +377,7 @@ cuaderno normal. Yo tengo un par porque son cómodos de usar para cuentas rápid
 o para algún trámite. Si tenés aún más presupuesto, una tablet no gasta nada de
 papel.
 
-## División por Cero
+### División por Cero
 
 Todos saben que \\(\frac{0}{2} = 0\\), el problema es que demasiadas personas
 también dicen que \\(\frac{2}{0} = 0\\) o \\(\frac{2}{0} = 2\\).
@@ -439,7 +439,7 @@ caso en este ejemplo. Tenés que estar atento a este tipo de cosas.
 
 **¡Recordá que NO PODÉS dividir por cero!**
 
-## Paréntesis Malos/Perdidos/Asumidos
+### Paréntesis Malos/Perdidos/Asumidos
 
 El primer error es que _pinta la vagancia_ y la persona decide que los
 paréntesis no son necesarios en ciertos pasos o que se van a acordar donde van
@@ -449,7 +449,7 @@ El otro error es que los estudiantes a veces no entienden qué tan importantes
 son realmente los paréntesis. Esto se ve a menudo en errores hechos en
 potenciación como muestran los primeros ejemplos.
 
-### Ejemplo 1: Elevar al cuadrado \\(4x\\).
+#### Ejemplo 1: Elevar al cuadrado \\(4x\\).
 
 | **Correcto**                      | **Incorrecto** |
 | --------------------------------- | -------------- |
@@ -467,7 +467,7 @@ Los paréntesis son requeridos en este caso para asegurar que elevemos al
 cuadrado toda la cosa, no solo la \\(x\\), no te los olvides MARAVILLA DE LA
 CREACIÓN.
 
-### Ejemplo 2: Elevar al cuadrado \\(-3\\).
+#### Ejemplo 2: Elevar al cuadrado \\(-3\\).
 
 | **Correcto**                | **Incorrecto**            |
 | --------------------------- | ------------------------- |
@@ -484,7 +484,7 @@ van a acordar _después™_ cuando llegue el momento de realmente evaluarlo. ¡S
 embargo, es increíble cuántos de estos individuos _después™_ se olvidan
 rápidamente de los paréntesis y escriben \\(-9\\) de todas formas!
 
-### Ejemplo 3: Restar \\(4x - 5\\) de \\(x^2 + 3x - 5\\).
+#### Ejemplo 3: Restar \\(4x - 5\\) de \\(x^2 + 3x - 5\\).
 
 | **Correcto**                                                    | **Incorrecto**                             |
 | --------------------------------------------------------------- | ------------------------------------------ |
@@ -500,7 +500,7 @@ Una vez más, este es uno de esos errores donde la gente sí sabe que técnicame
 los paréntesis deberían estar ahí, pero no los ponen y se olvidan rápidamente de
 que estaban ahí y hacen la resta incorrectamente.
 
-### Ejemplo 4: Convertir \\(\sqrt{7x}\\) a exponentes fraccionarios.
+#### Ejemplo 4: Convertir \\(\sqrt{7x}\\) a exponentes fraccionarios.
 
 | **Correcto**                 | **Incorrecto**             |
 | ---------------------------- | -------------------------- |
@@ -510,7 +510,7 @@ Esto vuelve al mismo error en los primeros dos. Solo la cantidad a la izquierda
 del exponente recibe el exponente. Entonces, el caso incorrecto es realmente
 \\(7x^{1/2} = 7\sqrt{x}\\) y esto claramente NO es la raíz original.
 
-### Ejemplo 5: Evaluar \\(-3\int 6x - 2 dx\\).
+#### Ejemplo 5: Evaluar \\(-3\int 6x - 2 dx\\).
 
 | **Correcto**                                                | **Incorrecto**                                                   |
 | ----------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -520,12 +520,12 @@ Notá el uso de los paréntesis. El problema establece que es \\(-3\\) veces TOD
 la integral, no solo el primer término de la integral (como se hace en el
 ejemplo incorrecto).
 
-## Distribución Incorrecta
+### Distribución Incorrecta
 
 ¡Tené cuidado cuando uses la propiedad distributiva! Hay dos errores principales
 con los que me encuentro regularmente.
 
-### Ejemplo 1: Multiplicar \\(4(2x^2 - 10)\\).
+#### Ejemplo 1: Multiplicar \\(4(2x^2 - 10)\\).
 
 | **Correcto**                   | **Incorrecto**                 |
 | ------------------------------ | ------------------------------ |
@@ -537,7 +537,7 @@ el segundo término. Esto es especialmente cierto cuando el segundo término es
 solo un número. Por alguna razón, si el segundo término contiene variables, los
 estudiantes suelen acordarse de hacer la distribución correctamente.
 
-### Ejemplo 2: Multiplicar \\(3(2x - 5)^2\\).
+#### Ejemplo 2: Multiplicar \\(3(2x - 5)^2\\).
 
 | **Correcto**                                              | **Incorrecto**                                       |
 | --------------------------------------------------------- | ---------------------------------------------------- |
@@ -565,7 +565,7 @@ S: Substracción (-, Resta).
 Lógicamente, esto es, Primero Paréntesis, luego Exponentes, luego
 Multiplicación, luego Adición (+, Suma), y finalmente Substracción (-, Resta).
 
-## Suposiciones Aditivas
+### Suposiciones Aditivas
 
 No sabía cómo más llamar a esto, pero es un error que muchos estudiantes
 cometen. Acá está la suposición. Ya que \\(2(x + y) = 2x + 2y\\), entonces todo
@@ -607,12 +607,12 @@ $$
 \end{align}
 $$
 
-## Errores de Cancelación
+### Errores de Cancelación
 
 Estos errores caen en dos categorías. Simplificar expresiones racionales y
 resolver ecuaciones. Veamos primero las expresiones racionales.
 
-### Ejemplo 1: Simplificar \\(\frac{3x^3 - x}{x}\\) (hecho correctamente).
+#### Ejemplo 1: Simplificar \\(\frac{3x^3 - x}{x}\\) (hecho correctamente).
 
 $$\frac{3x^3 - x}{x} = \frac{x(3x^2 - 1)}{x} = 3x^2 - 1$$
 
@@ -624,7 +624,7 @@ en el caso del denominador en nuestro ejemplo).
 Contrastá esto con el siguiente ejemplo que contiene un error muy común que los
 estudiantes cometen.
 
-### Ejemplo 2: Simplificar \\(\frac{3x^3 - x}{x}\\) (hecho incorrectamente).
+#### Ejemplo 2: Simplificar \\(\frac{3x^3 - x}{x}\\) (hecho incorrectamente).
 
 Demasiados estudiantes tratan de simplificar esto como:
 
@@ -638,7 +638,7 @@ esta cancelación TENÉS QUE tener una \\(x\\) en ambos términos.
 Para convencerte de que este tipo de cancelación no es verdadera, considerá el
 siguiente ejemplo numérico.
 
-### Ejemplo 3: Simplificar \\(\frac{8 - 3}{2}\\).
+#### Ejemplo 3: Simplificar \\(\frac{8 - 3}{2}\\).
 
 Esto se puede hacer fácilmente solo haciendo la aritmética como sigue:
 
@@ -659,7 +659,7 @@ siendo distinto de lo que estás buscando. No lo haga.
 Ahora, echemos un vistazo rápido a los errores de cancelación involucrados en
 resolver ecuaciones.
 
-### Ejemplo 4: Resolver \\(2x^2 = x\\) (hecho incorrectamente).
+#### Ejemplo 4: Resolver \\(2x^2 = x\\) (hecho incorrectamente).
 
 Demasiados estudiantes se acostumbran a solo cancelar (es decir, simplificar)
 cosas para hacer su vida más fácil. Entonces, el error más grande al resolver
@@ -671,7 +671,7 @@ Mientras que \\(x = \frac{1}{2}\\) es una solución, hay otra solución que nos
 hemos perdido. ¿Podés ver cuál es? Echa un vistazo al siguiente ejemplo para ver
 cuál es.
 
-### Ejemplo 5: Resolver \\(2x^2 = x\\) (hecho correctamente).
+#### Ejemplo 5: Resolver \\(2x^2 = x\\) (hecho correctamente).
 
 Acá está la manera correcta de resolver esta ecuación. ¡Primero llevá todo a un
 lado y después factorizá!
@@ -698,7 +698,7 @@ que alguna simplificación es algo bueno y necesario, NUNCA deberías dividir un
 término como hicimos en el primer intento cuando resolvés. Si hacés esto, VAS A
 perder soluciones.
 
-## Uso Correcto de la Raíz Cuadrada
+### Uso Correcto de la Raíz Cuadrada
 
 Parece haber una concepción muy errónea muy grande sobre el uso de raíces
 cuadradas por ahí. Los estudiantes parecen estar bajo la concepción errónea de
@@ -751,7 +751,7 @@ Para aclarar una cosa es el resultado de la operación \\(\sqrt{(\cdot)}\\) (es
 un único resultado) y otra distinta es la solución a la ecuación cuadrática
 (Hay dos soluciones para la ecuación, dos valores que satisfacen la igualdad).
 
-## Fracciones Ambiguas
+### Fracciones Ambiguas
 
 Este es más un problema de notación (como escribimos las operaciones) que un
 problema de álgebra (como se _hacen_ las operaciones). Es bastante común. Hay
@@ -809,6 +809,12 @@ para denotar fracciones usá paréntesis para que sea claro qué es el numerador
 qué es el denominador. Entonces, deberías escribirlo como:
 
 $$(a + b)/(c + d)$$
+
+## 3. Palabras finales
+
+Esto es todo lo que comento complementando con lo de Paul. No olviden de mirar los recursos extras
+
+---
 
 ### Recomendado para aprender más
 

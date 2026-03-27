@@ -7,7 +7,7 @@ author: Martín Aramayo, Juan Pablo Carbajal
 tags: ["Presión", "Física", "Unidades", "Smartphone", "Phyphox"]
 date: 2022-10-15
 # image: true
-banner: "img/fotitoBolsa.webp"
+banner: "img/blog/2022-10-16-Presion-bolsa-aire/fotitoBolsa.webp"
 ---
 
 El objetivo de este experimento es investigar cómo la presión depende de la fuerza y el área.
@@ -35,21 +35,21 @@ El objetivo de este experimento es investigar cómo la presión depende de la fu
 
 La gente de Phyphox armo estos experimentos, los hacemos disponibles traducidos. Dejo link al [original](https://phyphox.org/experiment/pressure-in-a-bag/) con los [ejercicios](https://phyphox.org/material/pressure-in-a-bag.pdf).
 
-### Experimento 1: Presión Vs. Fuerza
+## Experimento 1: Presión Vs. Fuerza
 
 Examinar el cambio en presión con la fuerza efectiva.
 Activar el experimento `Presión` en la app de Phyphox.
 
-![](/img/presion-bolsa-aire/ingresarPresion.png)
+![](/img/blog/2022-10-16-Presion-bolsa-aire/ingresarPresion.png)
 
 Para poder controlar el experimento desde otro dispositivo, activar el acceso remoto en los tres puntitos en la esquina superior derecha.
 Aparecerá una dirección de internet. Abrir esta dirección en el segundo dispositivo para controlar el experimento de forma remota.
 
-![](/img/presion-bolsa-aire/ingresarPresion2.png)
+![](/img/blog/2022-10-16-Presion-bolsa-aire/ingresarPresion2.png)
 
 Colocá el teléfono en la bolsa plástica. Ponele un poco de aire y cerrala bien con una banda elástica. Colocar un libro sobre la bolsa y anotar los valores. Ahora, coloca los pesos, uno tras otro y anotar los cambios en presión.
 
-![](/img/image.webp)
+![](/img/blog/2022-10-16-Presion-bolsa-aire/image.webp)
 
 | Masa (Kg)     | Fuerza adicional (N) | Presión (hPa) (Redondeado a 1 dígito) | Cambio en presión respecto a la inicial (hPa) |
 | ------------- | -------------------- | ------------------------------------- | --------------------------------------------- |
@@ -63,7 +63,7 @@ Colocá el teléfono en la bolsa plástica. Ponele un poco de aire y cerrala bie
 
 Dibujar el diagrama que muestra el cambio en presión como una función de la fuerza.
 
-### Experimento 2: Presión vs. Área.
+## Experimento 2: Presión vs. Área.
 
 Repetir el experimento con una masa de 1 kg y el libro balanceado arriba, podés tocarlo un poquito para que no caiga.
 
@@ -72,7 +72,7 @@ Repetir el experimento con una masa de 1 kg y el libro balanceado arriba, podés
 | Libro + 1 Kg |                                       |
 | 1 Kg + Libro |                                       |
 
-#### Definición de presión:
+### Definición de presión:
 
 La presión \\(p\\) está expresada en función de la fuerza que se ejerce sobre un objeto \\(F\\)
 con una superficie plana de área \\(A\\):
@@ -81,7 +81,7 @@ $$
 P = {F \over A}
 $$
 
-### Experimento 3: La unidad Pascal
+## Experimento 3: La unidad Pascal
 
 Medir la presión ejercida por una fuerza de 100 N sobre un área de 100 cm\\(^2\\). Además, usar el peso de 1 kg y la "chapita" de 100 cm\\(^2\\).
 
@@ -116,13 +116,15 @@ Podés encontrar el valor \\(
 
 Acá va una foto de un experimento:
 
-![](/img/fotitoBolsa.webp)
+![](/img/blog/2022-10-16-Presion-bolsa-aire/fotitoBolsa.webp)
 
 ¿Se te ocurre otro experimento con estos elementos?
+
+_CC BY-SA Holger Jessen-Thiesen (paper original)_
+
+---
 
 ### Recomendaciones para aprender más
 
 - [Presión (Hyperphysics)](http://hyperphysics.phy-astr.gsu.edu/hbasees/press.html#pre)
 - [Presión (No me salen de Ricardo Cabrera)](https://ricuti.com.ar/no_me_salen/hidrostatica/FT_presion.html)
-
-CC BY-SA Holger Jessen-Thiesen (paper original)

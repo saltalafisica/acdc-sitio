@@ -6,7 +6,7 @@ tags: ["Matemática", "Estadistica", "Física", "Promedio"] # Por lo general con
 date: 2024-05-21 # poner la fecha de creación del post
 math: true # si contiene ecuaciones poner true
 # image: false # a definir en el futuro que tipo de imagenes poner, por el momento queda false
-banner: "img/medir-a-medianas/moda-2.png"
+banner: "img/blog/2024-05-21-Medir-a-medianas/moda-2.png"
 ---
 
 Breve explicación intuitiva y visual de como funcionan: La media aritmética, la media geométrica, la media harmónica, la mediana y la moda (No en ese orden je).
@@ -149,7 +149,7 @@ $$
 }
 $$
 
-![](/img/medir-a-medianas/mean_arithmetic.png)
+![](/img/blog/2024-05-21-Medir-a-medianas/mean_arithmetic.png)
 
 Supongamos que pesas 150 kg, y estás en un ascensor con una persona de 100 kg y con un animal marino de 350 kg (Sí, medio grande el ascensor, pero supongamos). ¿Cuál es el peso promedio?
 
@@ -184,7 +184,7 @@ $$[1, 2, 3, 4]$$
 
 La mediana en este caso es 2.5.
 
-![](/img/medir-a-medianas/mediana.png)
+![](/img/blog/2024-05-21-Medir-a-medianas/mediana.png)
 
 Ventajas:
 
@@ -225,7 +225,7 @@ Ventajas:
 - Dar una elección que la mayoría querría. Las otras cuentas puede dar una opción que nadie quiere o que simplemente no existe por el tipo de dato que es.
 - Fácil de entender
 
-![](/img/medir-a-medianas/moda.png)
+![](/img/blog/2024-05-21-Medir-a-medianas/moda.png)
 
 Desventajas:
 
@@ -268,7 +268,7 @@ Un -2% Vs. -17% es una diferencia importante. Ambos portafolios dan pérdidas, p
 
 Otra lección de este ejemplo es que no tiene sentido sumar y dividir retornos de inversión. Esto es, porque son crecimientos exponenciales y no se pueden operar entre sí de esa manera.
 
-![](/img/medir-a-medianas/mean_geometric.png)
+![](/img/blog/2024-05-21-Medir-a-medianas/mean_geometric.png)
 
 ---
 
@@ -287,7 +287,7 @@ $$
 {\text{Resultado total} \over \text{Entrada total}}
 $$
 
-![](/img/medir-a-medianas/mean_harmonicc.png)
+![](/img/blog/2024-05-21-Medir-a-medianas/mean_harmonicc.png)
 
 Si colocamos a un elemento con tasa representativa \\(X\\) y otro con tasa \\(Y\\). Cada uno realizando la misma cantidad de trabajo. ¿Cuál es la tasa promedio? Supongamos que \\(X\\) es 30\\({ m \over s}\\) y \\(Y\\) es 60\\({ m \over s}\\). Si los ponemos a hacer tareas similares (recorrer 1 metro) el razonamiento es:
 
@@ -349,6 +349,8 @@ A veces es una buena idea asegurarse que la matemática esté funcionando correc
 Y si sumamos lo que tarda cada etapa, 0.29 + 0.71 = 1, los números cierran: toman una hora hacer 7.14 productos.
 
 Fijate TITANICA DEIDAD, ante la duda, es buena idea probar un par de ejemplos para estar seguro. Revisa que tu tasa media sea realmente lo que estás buscando.
+
+---
 
 ### Recomendado para aprender más
 

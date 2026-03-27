@@ -7,7 +7,7 @@ author: Martín Aramayo, Alberto Villagran
 tags: ["Sonido", "Cinemática", "MRU", "Smartphone", "Phyphox"]
 date: 2022-10-19
 # image: true
-banner: "img/experimento-sonido-phyphox.webp"
+banner: "img/blog/2022-10-16-velocidad-sonido-phyphox/experimento-sonido-phyphox.webp"
 ---
 
 Medición de velocidad del sonido usando dos smartphones con Phyphox
@@ -30,7 +30,7 @@ Medición de velocidad del sonido usando dos smartphones con Phyphox
 
 La gente de Phyphox armo estos experimentos, los hacemos disponibles traducidos. Dejo link al [original](https://phyphox.org/experiment/speed-of-sound/) con los [ejercicios](https://phyphox.org/material/worksheet_speed-of-sound.docx).
 
-![](/img/experimento-sonido-phyphox.webp)
+![](/img/blog/2022-10-16-velocidad-sonido-phyphox/experimento-sonido-phyphox.webp)
 
 ### Pasos
 
@@ -38,12 +38,12 @@ La gente de Phyphox armo estos experimentos, los hacemos disponibles traducidos.
 
 2.  Elegir **Cronómetro acústico (Acoustic Stopwatch).**
 
-![](/img/velocidad-sonido-phyphox1.jpg)
+![](/img/blog/2022-10-16-velocidad-sonido-phyphox/velocidad-sonido-phyphox1.jpg)
 
 3.  Configurar el **Umbral (Threshold)** a 0.8 para reducir el ruido de fondo.
 4.  Configurar el **Delay mínimo (Minimum Delay)** a 0.1.
 
-![](/img/velocidad-sonido-phyphox2.jpg)
+![](/img/blog/2022-10-16-velocidad-sonido-phyphox/velocidad-sonido-phyphox2.jpg)
 
 5.  Para hacer el experimento, colocar los teléfonos separados uno del otro y medir esa distancia. Recomendamos que sea de 1 m (\\(d\\) = 1 m).
 
@@ -101,15 +101,17 @@ $$
 
 Velocidad promedio del sonido = **\*\***\_\_\_\_**\*\*** m/s.
 
-### Pregunta
+## Pregunta
 
 ¿Qué pasa si cambiamos la distancia entre los teléfonos?
 Intentá con diferentes distancias e investiga el resultado. Podés usar la tabla otra vez.
+
+_Author original: Solmaz Khodaeifaal_
+
+---
 
 ### Recomendaciones para aprender más
 
 - [Velocidad del sonido (Hyperphysics)](http://hyperphysics.phy-astr.gsu.edu/hbasees/hframe.html)
 
 - [Sonido (Ondas) (No me salen de Ricardo Cabrera)](https://ricuti.com.ar/no_me_salen/ondas/Ap_ond_sonido.html)
-
-Author: Solmaz Khodaeifaal

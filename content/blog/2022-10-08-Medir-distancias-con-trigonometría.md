@@ -14,7 +14,7 @@ tags:
 date: 2022-10-15
 math: true
 # image: true
-banner: "img/regla-mano-izquierda.webp"
+banner: "img/blog/2022-10-08-Medir-distancias-con-trigonometria/regla-mano-izquierda.webp"
 ---
 
 Como medir a ojo y mal, pero con criterio.
@@ -40,11 +40,11 @@ Un día aburrido, jugaba con una cinta roja de un metro que regalaban en la ferr
 
 Se me ocurrió rápidamente sacar la siguiente foto:
 
-![](/img/scaloneta.webp)
+![](/img/blog/2022-10-08-Medir-distancias-con-trigonometria/scaloneta.webp)
 
 Aprovechando la cinta roja me construyo un triángulo rectángulo.
 
-![](/img/triangulito.webp)
+![](/img/blog/2022-10-08-Medir-distancias-con-trigonometria/triangulito.webp)
 
 Con una cuentita como esta, conociendo que se cumple:
 
@@ -80,7 +80,7 @@ $$
 
 ¿Por qué 5° grados de margen de error? Mi criterio me dice que está entre 70° y 80°, asique le vamos a dar un error igual a la mitad de diferencia de esos dos ángulos. Para ser consistentes con el intervalo. Uno puede hacerse una idea de que esto es correcto usando la regla de la mano derecha:
 
-![](/img/regla-mano-izquierda.webp)
+![](/img/blog/2022-10-08-Medir-distancias-con-trigonometria/regla-mano-izquierda.webp)
 
 Este margen de error es grande y podemos hacerlo mejor. Vamos a ver como mejorar esta cuenta. Una vez en casa agarré [Inkscape](https://inkscape.org/) (un software de dibujo) dibujé un triangulito que más o menos calzaba y medí el ángulo preciso para ver que tanto le había errado. Obtengo:
 
@@ -133,9 +133,9 @@ $$
 \end{aligned}
 $$
 
-Armemos un gráfico de la secante cuadrada para mostrar como se porta, el codigo python para crear este gráfico lo encuentran en [errorAngulo.py](https://gitlab.com/acdc-hvm/experimentos/-/tree/master/static/img/plots/errorAngulo.py):
+Armemos un gráfico de la secante cuadrada para mostrar como se porta, el codigo python para crear este gráfico lo encuentran en [errorAngulo.py](https://gitlab.com/acdc-hvm/experimentos/-/tree/master/static/img/blog/2022-10-08-Medir-distancias-con-trigonometria/plots/errorAngulo.py):
 
-![](/img/plots/errorAngulo.png)
+![](/img/blog/2022-10-08-Medir-distancias-con-trigonometria/plots/errorAngulo.png)
 
 Podemos ver que el error \\(\Delta x \\) escala con el error \\(\Delta \alpha\\). Además, cuanto más aumenta el \\(\alpha\\), más alto es el error y explota cuando \\(\alpha = 90°\\). Esto es un problema, porque cuanto más lejano está lo que queremos medir, más grande es el ángulo. En estos casos el error aumenta. ¿Que soluciones uno puede ofrecer?
 Podemos medir el ángulo de un lugar más alto, con altura conocida. Otra alternativa es medir ángulos pequeños pero catetos \\(b\\) largos. Entonces nuestra principal contribución al error de medición, vendrá del instrumento que usemos para medir el cateto \\(b\\). Aquí el análisis se complica porque hay que empezar a considerar el error de medición proveniente de \\(b\\).
@@ -145,6 +145,8 @@ Podemos medir el ángulo de un lugar más alto, con altura conocida. Otra altern
 Hay muchas configuraciones que uno puede probar. Pero una recomendación importante es tener en cuenta la alineación de la cámara con la que se va a tomar la foto. Se puede hacer con una aplicación o simplemente colocando un trípode y realizando ajustes. Muchos teléfonos tienen el acelerómetro y algunos hasta un giroscopio para poder determinar su orientación, con esto se lo puede dejar bien alineado.
 
 ¿Se te ocurre otra forma de estimar estas alturas?
+
+---
 
 ### Recomendado para aprender más
 

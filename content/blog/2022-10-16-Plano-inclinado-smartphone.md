@@ -7,7 +7,7 @@ author: Martín Aramayo, Alberto Villagran
 tags: ["Presión", "Física", "Unidades", "Smartphone", "Phyphox"]
 date: 2022-10-15
 # image: true
-banner: "img/plano.webp"
+banner: "img/blog/2022-10-16-Plano-inclinado-smartphone/plano.webp"
 ---
 
 Medición de velocidad de un tubo rodando por un plano inclinado usando Phyphox
@@ -36,7 +36,7 @@ La gente de Phyphox armo estos experimentos, los hacemos disponibles traducidos.
 
 ## Preparación
 
-![](/img/plano.webp)
+![](/img/blog/2022-10-16-Plano-inclinado-smartphone/plano.webp)
 
 Video ilustrativo: https://youtu.be/gPq4Le9kXWE
 
@@ -46,9 +46,9 @@ Video ilustrativo: https://youtu.be/gPq4Le9kXWE
 4. Medir el radio / diámetro del tubo y la altura inicial con el criterio del dibujo.
 5. Colocar el radio del tubo en Phyphox en el campo `Radio del tubo`.
 
-![Fuente: http://opentp.fr/en/smart/absorption/](/img/rodar/absorcionPhyphox.png)
+![Fuente: http://opentp.fr/en/smart/absorption/](/img/blog/2022-10-16-Plano-inclinado-smartphone/absorcionPhyphox.png)
 
-### Experimento
+## Experimento
 
 Una vez completados los requisitos de la sección anterior, es importante fijar el teléfono dentro del tubo de alguna manera. Podés rellenar el tubo con papel de diario o lo que veas mas conveniente. Es importante que el teléfono no se mueva mucho dentro del tubo porque esto afecta a la medición. Queremos medir como se comporta el tubo al rodar. No el movimiento del teléfono dentro del tubo.
 
@@ -57,7 +57,7 @@ Es preferible que el teléfono tenga accesible el botón de inicio de experiment
 Luego de activar la medición, con el teléfono en el tubo, se lo larga a rodar. Una vez tocó el piso, se detiene la medición y se evalúa el experimento.
 
 <!--
-### Notas sobre sensores
+## Notas sobre sensores
 
 Hay dos sensores que permiten el seguimiento de el smartphone.
 
@@ -66,7 +66,7 @@ Hay dos sensores que permiten el seguimiento de el smartphone.
 
 Muchos smartphones tienen giroscopios de 3 ejes con los cuales se puede medir la rotación del teléfono. Junto con el acelerómetro, el software en el teléfono reconoce los cambios en movimiento. Esto se usa al navegar con GPS, rotar la pantalla o para controlar algunos juego. El acelerómetro es capaz de medir la rotación al rededor de 3 ejes \\(x\\), \\(y\\) \\(z\\). El acelerómetro suele tener un tamaño de unos 2 mm x 2 mm y consiste en un sistema oscilador que es influenciado por el efecto Coriolis al ser rotado. Esto es medido a través de capacitores y es transferido como dato de velocidad angular. -->
 
-### Preguntas y tareas
+## Preguntas y tareas
 
 1. Explica como el programa determina la velocidad de desplazamiento utilizando datos específicos y la medición de la velocidad angular.
 2. Transfiere pares seleccionados de mediciones de la forma más precisa posible en un gráfico \\(v\\) vs. \\(t\\). Determinar la aceleración del tubo rodando a lo largo del plano. (Podés acceder a los datos medidos si los exportas, podés abrirlos con Excel, Google sheets o algo similar (inclusive podés analizarlo con Python usando pandas)).
@@ -77,6 +77,10 @@ Muchos smartphones tienen giroscopios de 3 ejes con los cuales se puede medir la
 
 ¿Se te ocurre otro experimento con estos elementos?
 
+_CC BY-SA Mirko Zeppmeisel (paper original)_
+
+---
+
 ### Recomendaciones para aprender más
 
 - [Energía potencial (Hyperphysics)](http://hyperphysics.phy-astr.gsu.edu/hbasees/gpot.html#mgh)
@@ -84,5 +88,3 @@ Muchos smartphones tienen giroscopios de 3 ejes con los cuales se puede medir la
 - [Energía cinética (Hyperphysics)](http://hyperphysics.phy-astr.gsu.edu/hbasees/ke.html#ke)
 
 - [Teoría y ejercicios resueltos en español (No me salen de Ricardo Cabrera)](https://ricuti.com.ar/no_me_salen/energia/index_energia.html)
-
-CC BY-SA Mirko Zeppmeisel (paper original)
