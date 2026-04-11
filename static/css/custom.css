@@ -167,8 +167,18 @@ small,
   background-attachment: fixed;
   background-size: cover;
 }
-.bar.background-image-fixed-2 {f
+.bar.background-image-fixed-2 {
   background: url("../img/photogrid.jpg") center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
+}
+
+/* for the phone stuff*/
+
+/* Make mobile menu full height */
+.mobile-menu,
+#mobile-menu {
+  max-height: 100vh !important;
+  height: 100vh !important;
+  overflow-y: auto !important;
 }
