@@ -6,7 +6,7 @@ tags:
   ["Distancias", "Mediciones", "Matemática", "Física", "Propagación de errores"]
 date: 2023-04-14
 math: true # si contiene ecuaciones poner true
-image: false # a definir en el futuro que tipo de imagenes poner, por el momento queda false
+# image: false # a definir en el futuro que tipo de imagenes poner, por el momento queda false
 # hidden: true
 # show: false
 banner: "img/blog/2023-04-14-propagacion-de-errores-intro/definicion.png"

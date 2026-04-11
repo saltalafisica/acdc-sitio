@@ -194,6 +194,14 @@ search = false
 
 {{< youtube IQFui9f-kOU >}}
 
+- **Los estudiantes del Nivel 1 Ingresando a clases** - Time lapse de los estudiantes de nivel secundario llenando el anfiteatro un sabado a la mañana.
+
+{{< youtube xYnevaqtJGA >}}
+
+- **Trailer del documental sobre Daniel Cordoba y su taller** - Estrenada el 23 de Septiembre de 2025.
+
+{{< youtube pgl2jm0aFLw>}}
+
 ---
 
 ---
