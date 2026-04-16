@@ -127,6 +127,18 @@ pluralizelisttitles = false
     weight     = 3
 
 [[menu.main]]
+    name       = "Guias Nivel 3 Temario A"
+    url        = "/guias-nivel3-temario-a/"
+    weight     = 1
+    parent     = "menu.guias"
+
+[[menu.main]]
+    name       = "Guias Nivel 3 Temario B"
+    url        = "/guias-nivel3-temario-b/"
+    weight     = 1
+    parent     = "menu.guias"
+
+[[menu.main]]
     name       = "Guias Nivel 1 Temario A"
     url        = "/guias-nivel1-temario-a/"
     weight     = 1
@@ -181,7 +193,7 @@ pluralizelisttitles = false
     viewMorePostLink = "/blog/"
     author = "Asociación Civil Ciencia al Alcance de Todos"
     defaultKeywords = ["Asociacion civil", "Fisica", "Ciencia"]
-    mainSections = ["blog", "noticias", "guias-nivel1-temario-b", "guias-nivel1-temario-a"]
+    mainSections = ["blog", "noticias", "guias-nivel3-temario-b", "guias-nivel3-temario-a", "guias-nivel1-temario-b", "guias-nivel1-temario-a"]
     defaultDescription = "Sitio de la Asociación Civil Ciencia al Alcance de Todos"
 
     sectionLayouts = { noticias = "blog" }
