@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Teoria on Asociación Civil Ciencia al Alcance de Todos</title><link>https://saltalafisica.github.io/teoria/</link><description>Recent content in Teoria on Asociación Civil Ciencia al Alcance de Todos</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://saltalafisica.github.io/teoria/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://saltalafisica.github.io/teoria/optica-geometrica-espejo-curvo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://saltalafisica.github.io/teoria/optica-geometrica-espejo-curvo/</guid><description>&lt;div class="frame"&gt;
+&lt;/div&gt;
+&lt;h1 id="repaso-de-los-tipos-de-espejo"&gt;Repaso de los tipos de espejo&lt;/h1&gt;
+&lt;h2 id="repaso-de-los-tipos-de-espejo-cómo-son-los-signos"&gt;Repaso de los tipos de espejo: Cómo son los signos&lt;/h2&gt;
+&lt;div class="frame"&gt;
+&lt;p&gt;Repaso de los tipos de espejo: Cómo son los signos&lt;/p&gt;
+&lt;p&gt;Por convención, la distancia objeto-espejo $&lt;code&gt;D_o&lt;/code&gt;$ es positiva.&lt;/p&gt;
+&lt;p&gt;Espejo cóncavo&lt;/p&gt;
+&lt;figure&gt;
+&lt;embed src="figurasPNG/concavo-correcto-Signos.png" style="width:60.0%" /&gt;
+&lt;/figure&gt;
+&lt;p&gt;Espejo convexo&lt;/p&gt;
+&lt;figure&gt;
+&lt;embed src="figurasPNG/convexo-correcto-Signos.png" style="width:60.0%" /&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+&lt;h2 id="repaso-de-los-tipos-de-espejo-ecuación-de-espejos-curvos"&gt;Repaso de los tipos de espejo: Ecuación de espejos curvos&lt;/h2&gt;
+&lt;div class="frame"&gt;
+&lt;p&gt;Repaso de los tipos de espejo: Ecuación de espejos curvos&lt;/p&gt;
+&lt;p&gt;La ecuación de espejos curvos&lt;/p&gt;
+&lt;figure&gt;
+&lt;embed src="figurasPNG/convexo-rayoCuchau.png" style="width:80.0%" /&gt;
+&lt;/figure&gt;
+&lt;pre tabindex="0"&gt;&lt;code class="language-math" data-lang="math"&gt;\frac{1}{f} = \frac{1}{D_o} + \frac{1}{D_i}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;$&lt;code&gt;D_o&lt;/code&gt;$: Distancia del objeto al espejo&lt;/p&gt;</description></item></channel></rss>

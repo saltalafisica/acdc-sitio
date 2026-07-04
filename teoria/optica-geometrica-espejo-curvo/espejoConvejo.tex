@@ -1,0 +1,31 @@
+
+
+\begin{tikzpicture}
+
+	% Línea principal
+	\draw[->] (0,0) -- (12,0);
+
+	% Marcas
+	\draw (0,0.15) -- (0,-0.15);
+  
+	% Etiquetas arriba
+	\node[above] at (0,0.15) {$0$};
+
+	% Llave izquierda
+	\draw[
+		decorate,
+		decoration={brace,mirror,amplitude=8pt}
+	]
+	(0,-0.5) -- (12,-0.5);
+
+	\node at (6,-1.5)
+	{
+		\begin{tabular}{c}
+			Virtual \\
+			Derecha \\
+			Reducida
+		\end{tabular}
+	};
+
+
+\end{tikzpicture}
