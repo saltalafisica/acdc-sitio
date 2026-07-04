@@ -1,0 +1,29 @@
+\beamer@sectionintoc {1}{Repaso de los tipos de espejo}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Repaso de los tipos de espejo: Cómo son los signos}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Repaso de los tipos de espejo: Ecuación de espejos curvos}{3}{0}{1}
+\beamer@subsectionintoc {1}{3}{Repaso de los tipos de espejo: Cómo distinguirlos}{4}{0}{1}
+\beamer@subsectionintoc {1}{4}{Repaso de los tipos de espejo: CUCHARA}{5}{0}{1}
+\beamer@subsectionintoc {1}{5}{Repaso de los tipos de espejo: Espejo Cóncavo}{6}{0}{1}
+\beamer@subsectionintoc {1}{6}{Repaso de los tipos de espejo: Espejo Convexo}{7}{0}{1}
+\beamer@subsectionintoc {1}{7}{Repaso de los tipos de espejo: Comparativa de los dos}{8}{0}{1}
+\beamer@sectionintoc {2}{Diagrama de rayos}{9}{0}{2}
+\beamer@subsectionintoc {2}{1}{Diagrama de rayos: Reglas}{9}{0}{2}
+\beamer@subsectionintoc {2}{2}{Diagrama de rayos: Reglas resumidas}{10}{0}{2}
+\beamer@sectionintoc {3}{Diagrama de rayos: Ejemplos}{11}{0}{3}
+\beamer@subsectionintoc {3}{1}{Diagrama de rayos: Espejo Convexo}{11}{0}{3}
+\beamer@subsectionintoc {3}{2}{Diagrama de rayos: Espejo Convexo, Rayo 1}{12}{0}{3}
+\beamer@subsectionintoc {3}{3}{Diagrama de rayos: Espejo Convexo, Rayo 2}{13}{0}{3}
+\beamer@subsectionintoc {3}{4}{Diagrama de rayos: Espejo Convexo, Rayo 3}{14}{0}{3}
+\beamer@subsectionintoc {3}{5}{Diagrama de rayos: Espejo Cóncavo}{15}{0}{3}
+\beamer@subsectionintoc {3}{6}{Diagrama de rayos: Espejo Cóncavo, Rayo 1}{16}{0}{3}
+\beamer@subsectionintoc {3}{7}{Diagrama de rayos: Espejo Cóncavo, Rayo 2}{17}{0}{3}
+\beamer@subsectionintoc {3}{8}{Diagrama de rayos: Espejo Cóncavo, Rayo 3}{18}{0}{3}
+\beamer@sectionintoc {4}{El espejo cóncavo...}{19}{0}{4}
+\beamer@sectionintoc {5}{El espejo cóncavo es especial}{20}{0}{5}
+\beamer@subsectionintoc {5}{1}{El espejo cóncavo es especial: Objeto entre el vertice y el foco}{20}{0}{5}
+\beamer@subsectionintoc {5}{2}{El espejo cóncavo es especial: Objeto en el foco}{21}{0}{5}
+\beamer@subsectionintoc {5}{3}{El espejo cóncavo es especial: Objeto entre el centro y el foco}{22}{0}{5}
+\beamer@subsectionintoc {5}{4}{El espejo cóncavo es especial: Objeto en el centro}{23}{0}{5}
+\beamer@subsectionintoc {5}{5}{El espejo cóncavo es especial: Objeto más allá del centro}{24}{0}{5}
+\beamer@subsectionintoc {5}{6}{El espejo cóncavo es especial: Je todos juntos}{25}{0}{5}
+\beamer@sectionintoc {6}{Espejos, TODOS LOS ESTILOS}{26}{0}{6}

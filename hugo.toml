@@ -165,6 +165,11 @@ pluralizelisttitles = false
     parent     = "menu.guias"
 
 
+[[menu.main]]
+    name       = "Teoria"
+    url        = "/teoria/"
+    weight     = 1
+    parent     = "menu.guias"
 # Top bar social links menu
 
 [[menu.topbar]]
@@ -207,7 +212,7 @@ pluralizelisttitles = false
     viewMorePostLink = "/blog/"
     author = "Asociación Civil Ciencia al Alcance de Todos"
     defaultKeywords = ["Asociacion civil", "Fisica", "Ciencia"]
-    mainSections = ["blog", "noticias", "guias-nivel3-temario-b", "guias-nivel3-temario-a", "guias-nivel1-temario-b", "guias-nivel1-temario-a"]
+    mainSections = ["blog", "noticias", "guias-nivel3-temario-b", "guias-nivel3-temario-a", "guias-nivel1-temario-b", "guias-nivel1-temario-a", "teoria"]
     defaultDescription = "Sitio de la Asociación Civil Ciencia al Alcance de Todos"
 
     sectionLayouts = { noticias = "blog" }

@@ -1,0 +1,8 @@
+\frametitle{Code Example}
+
+	\begin{lstlisting}
+fn main() {
+    println!("Hello, world!");
+}
+\end{lstlisting}
+
